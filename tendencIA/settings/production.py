@@ -2,7 +2,7 @@ from .base import *
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['wrossi.pythonanywhere.com/']
+ALLOWED_HOSTS = ["wrossi.pythonanywhere.com/"]
 
 
 # Database
